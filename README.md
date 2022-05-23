@@ -6,7 +6,7 @@ A simple page made with React JS, where you can connect your wallet, and mint a 
 
 https://nft-starter-project.nickbara.repl.co/
 
-# Smart Contract created for this project in Solidity by Me
+# Smart Contract created for this project in Solidity
 
 https://rinkeby.etherscan.io/address/0x0bD2eB481F807602eCBBF47366946Ddc513E43f4
 
